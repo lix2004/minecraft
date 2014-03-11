@@ -1,66 +1,42 @@
-[09:51:37] [main/INFO]: Setting user: kajong_
-[09:51:37] [main/INFO]: (Session ID is token:b595357cf4b24d4a9eb8bf657f2cb2c2:e82fd659ffd447b8a6a4ac901096f470)
-[09:51:37] [Client thread/INFO]: LWJGL Version: 2.9.1
-[09:51:37] [Client thread/INFO]: Reloading ResourceManager: Default
-[09:51:38] [Sound Library Loader/INFO]: Sound engine started
-[09:51:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[09:51:39] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[09:51:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.5
-[09:51:44] [Server thread/INFO]: Generating keypair
-[09:51:44] [Server thread/INFO]: Preparing start region for level 0
-[09:51:45] [Server thread/INFO]: Changing view distance to 12, from 10
-[09:51:45] [Server thread/INFO]: kajong_[local:E:c3bbdf4b] logged in with entity id 266 at (-85.59083568403071, 93.0, 354.6470677677869)
-[09:51:45] [Server thread/INFO]: kajong_ 加入了游戏
-[09:53:23] [Server thread/INFO]: Saving and pausing game...
-[09:53:23] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:53:23] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:53:23] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:53:58] [Server thread/INFO]: Saving and pausing game...
-[09:53:58] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:53:58] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:53:58] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:54:33] [Server thread/INFO]: Saving and pausing game...
-[09:54:33] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:54:33] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:54:33] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:55:08] [Server thread/INFO]: Saving and pausing game...
-[09:55:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:55:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:55:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:55:38] [Server thread/INFO]: Saving and pausing game...
-[09:55:38] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:55:38] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:55:38] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:56:10] [Server thread/INFO]: Saving and pausing game...
-[09:56:10] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:56:10] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:56:10] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:56:13] [Server thread/INFO]: Saving and pausing game...
-[09:56:13] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:56:13] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:56:13] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:56:28] [Server thread/INFO]: Saving and pausing game...
-[09:56:28] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:56:28] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:56:28] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:56:35] [Server thread/INFO]: kajong_ 刚刚获得了 [获得木头] 成就！
-[09:56:35] [Client thread/INFO]: [CHAT] kajong_ 刚刚获得了 [获得木头] 成就！
-[09:57:06] [Server thread/INFO]: Saving and pausing game...
-[09:57:06] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:57:06] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:57:06] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:57:33] [Server thread/INFO]: kajong_ 刚刚获得了 [这是? 工作台!] 成就！
-[09:57:33] [Client thread/INFO]: [CHAT] kajong_ 刚刚获得了 [这是? 工作台!] 成就！
-[09:58:18] [Server thread/INFO]: kajong_ 刚刚获得了 [耕种时间到！] 成就！
-[09:58:18] [Client thread/INFO]: [CHAT] kajong_ 刚刚获得了 [耕种时间到！] 成就！
-[09:59:40] [Server thread/INFO]: Saving and pausing game...
-[09:59:40] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:59:40] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:59:40] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:59:43] [Server thread/INFO]: Stopping server
-[09:59:43] [Server thread/INFO]: Saving players
-[09:59:43] [Server thread/INFO]: Saving worlds
-[09:59:43] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
-[09:59:43] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
-[09:59:43] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
-[09:59:58] [Client thread/INFO]: Stopping!
+[10:05:27] [main/INFO]: Setting user: kajong_
+[10:05:27] [main/INFO]: (Session ID is token:e2d502718adb4e60962ec0cdaaef92f5:e82fd659ffd447b8a6a4ac901096f470)
+[10:05:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:05:28] [Client thread/INFO]: Reloading ResourceManager: Default
+[10:05:29] [Sound Library Loader/INFO]: Sound engine started
+[10:05:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:05:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:06:06] [Server thread/INFO]: Starting integrated minecraft server version 1.7.5
+[10:06:06] [Server thread/INFO]: Generating keypair
+[10:06:06] [Server thread/INFO]: Preparing start region for level 0
+[10:06:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:06:07] [Server thread/INFO]: kajong_[local:E:6655835c] logged in with entity id 264 at (-237.34643397755767, 66.0, 168.7042342224491)
+[10:06:07] [Server thread/INFO]: kajong_ 加入了游戏
+[10:06:09] [Server thread/INFO]: Saving and pausing game...
+[10:06:09] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[10:06:09] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[10:06:09] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[10:06:52] [Server thread/INFO]: kajong_ 刚刚获得了 [采矿时间到！] 成就！
+[10:06:52] [Client thread/INFO]: [CHAT] kajong_ 刚刚获得了 [采矿时间到！] 成就！
+[10:07:01] [Server thread/INFO]: Saving and pausing game...
+[10:07:01] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[10:07:01] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[10:07:01] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[10:09:08] [Server thread/INFO]: Saving and pausing game...
+[10:09:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[10:09:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[10:09:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[10:09:34] [Server thread/INFO]: Saving and pausing game...
+[10:09:34] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[10:09:34] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[10:09:34] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[10:10:06] [Server thread/INFO]: Saving and pausing game...
+[10:10:06] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[10:10:06] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[10:10:06] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[10:10:08] [Server thread/INFO]: Stopping server
+[10:10:08] [Server thread/INFO]: Saving players
+[10:10:08] [Server thread/INFO]: Saving worlds
+[10:10:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[10:10:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[10:10:08] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[10:15:54] [Client thread/INFO]: Stopping!
