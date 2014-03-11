@@ -1,0 +1,48 @@
+[09:40:13] [main/INFO]: Setting user: kajong_
+[09:40:13] [main/INFO]: (Session ID is token:2a2e29e97fcc48b7bc3535d7a6d131f2:e82fd659ffd447b8a6a4ac901096f470)
+[09:40:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[09:40:14] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:40:15] [Sound Library Loader/INFO]: Sound engine started
+[09:40:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[09:40:16] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[09:40:26] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:40:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[09:40:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[09:40:28] [Client thread/INFO]: Reloading ResourceManager: Default
+[09:40:28] [Sound Library Loader/INFO]: Sound engine started
+[09:40:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[09:40:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[09:40:30] [Sound Library Loader/INFO]: Sound engine started
+[09:40:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.5
+[09:40:48] [Server thread/INFO]: Generating keypair
+[09:40:48] [Server thread/INFO]: Converting map!
+[09:40:48] [Server thread/INFO]: Scanning folders...
+[09:40:48] [Server thread/INFO]: Total conversion count is 0
+[09:40:48] [Server thread/INFO]: Preparing start region for level 0
+[09:40:49] [Server thread/INFO]: Preparing spawn area: 9%
+[09:40:50] [Server thread/INFO]: Preparing spawn area: 24%
+[09:40:51] [Server thread/INFO]: Preparing spawn area: 38%
+[09:40:52] [Server thread/INFO]: Preparing spawn area: 57%
+[09:40:53] [Server thread/INFO]: Preparing spawn area: 75%
+[09:40:54] [Server thread/INFO]: Preparing spawn area: 94%
+[09:40:55] [Server thread/INFO]: Changing view distance to 12, from 10
+[09:40:55] [Server thread/INFO]: kajong_[local:E:5c280a68] logged in with entity id 203 at (-242.5, 67.0, 254.5)
+[09:40:55] [Server thread/INFO]: kajong_ 加入了游戏
+[09:41:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 109 ms
+[09:42:20] [Server thread/INFO]: kajong_ 刚刚获得了 [打开物品栏] 成就！
+[09:42:20] [Client thread/INFO]: [CHAT] kajong_ 刚刚获得了 [打开物品栏] 成就！
+[09:42:29] [Server thread/INFO]: Saving and pausing game...
+[09:42:29] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[09:42:29] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[09:42:29] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[09:42:34] [Server thread/INFO]: Saving and pausing game...
+[09:42:34] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[09:42:34] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[09:42:34] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[09:42:35] [Server thread/INFO]: Stopping server
+[09:42:35] [Server thread/INFO]: Saving players
+[09:42:35] [Server thread/INFO]: Saving worlds
+[09:42:35] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Overworld
+[09:42:35] [Server thread/INFO]: Saving chunks for level 'RongQiao'/Nether
+[09:42:35] [Server thread/INFO]: Saving chunks for level 'RongQiao'/The End
+[09:42:36] [Client thread/INFO]: Stopping!
